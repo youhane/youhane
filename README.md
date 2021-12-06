@@ -1,3 +1,12 @@
+## Hi there 👋
+
+<p>An undergraduate Computer Science student in Indonesia</p>
+
+- 👀 I'm interested in front end web programming
+- 🌱 I’m currently learning Flutter / Go / Laravel
+- 📫 You can reach me by: @jasons154 (Instagram) or on Discord: Youhane#3295
+- 🐈 I like cats 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=youhane&label=Profile%20views&color=0e75b6&style=flat" alt="youhane" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=youhane" alt="youhane" /></a> </p>
