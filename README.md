@@ -2,8 +2,8 @@
 
 <p>I'm a undergraduate Computer Science student in Indonesia and currently majoring in Artificial Intelligence, I am passionate in learning and doing Web Development and also in Artificial Intelligence.</p>
 
-- 👀 I'm interested in front end web programming
-- 🌱 I’m currently learning Flutter / Go / Laravel
+- 👀 I'm interested in front end development
+- 🌱 I’m currently learning Flutter / Go
 - 📫 You can reach me by: @jasons154 (Instagram) or on Discord: Youhane#3295
 - 🐈 I like cats 
 
