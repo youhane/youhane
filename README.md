@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<p>I'm a undergraduate Computer Science student in Indonesia and currently majoring in Artificial Intelligence, I am passionate in learning and doing Web Development and also in Artificial Intelligence.</p>
+<p>I'm an undergraduate Computer Science student in Indonesia and currently majoring in Artificial Intelligence, I am passionate in learning and doing Web Development and also in Artificial Intelligence.</p>
 
 - 👀 I'm interested in front end development
 - 🌱 I’m currently learning Flutter / Go
