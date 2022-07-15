@@ -4,7 +4,7 @@
 
 - 👀 I'm interested in front end development
 - 🌱 I’m currently learning Flutter / Node
-- 📫 You can reach me by: @jasons154 (Instagram) or on Discord: Youhane#3295
+- 📫 You can reach me on Discord: Youhane#3295
 - 🐈 I like cats 
 
 <h3 align="left">Connect with me:</h3>
@@ -19,10 +19,6 @@
 <br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=youhane&show_icons=true&locale=en" alt="youhane" /></p>
-
-
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=youhane&show_icons=true&locale=en&layout=compact" alt="youhane" /></p>
 
 <br>
 
