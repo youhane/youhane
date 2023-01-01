@@ -14,11 +14,11 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youhane&background=0000&" alt="youhane" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=youhane&" alt="youhane" /></p>
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=youhane&show_icons=true&locale=en&theme=transparent" alt="youhane" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=youhane&show_icons=true&locale=en" alt="youhane" /></p>
 
 <br>
 
