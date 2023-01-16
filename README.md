@@ -18,7 +18,7 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=youhane&show_icons=true&locale=en" alt="youhane" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=youhane" alt="youhane" /></p>
 
 <br>
 
