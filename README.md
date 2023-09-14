@@ -2,8 +2,8 @@
 
 <p>I'm an undergraduate Computer Science student in Indonesia and currently majoring in Artificial Intelligence, I am passionate in learning from various topics also currently I enjoy doing Web Development and also getting into Artificial Intelligence.</p>
 
-- 👀 I'm interested in software and web development and also devops
-- 🌱 I’m currently learning Kotlin / Go
+- 👀 I'm interested in software engineering in general and also devops
+- 🌱 I’m currently learning more about Bioinformatics
 - 📫 You can reach me on Discord: Youhane#3295
 - 🐈 I like cats 
 - 👨‍💻 You can find more of my projects at [my website here](https://jasons.vercel.app/)
